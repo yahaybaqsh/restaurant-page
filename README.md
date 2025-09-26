@@ -5,10 +5,6 @@
 <img width="1885" height="887" alt="لقطة الشاشة 2025-09-26 095303" src="https://github.com/user-attachments/assets/0553055a-0668-419b-9555-f534794e9ee5" />
 
 
-# 🍽️ Élite Cuisine - Professional Restaurant Website
-
-![Élite Cuisine Preview](https://placehold.co/800x400/8B4513/FFFFFF?text=Élite+Cuisine+Restaurant)
-
 A stunning, professionally designed restaurant website built entirely with JavaScript DOM manipulation, featuring elegant animations, premium typography, and sophisticated styling.
 
 ## 🌟 Features
