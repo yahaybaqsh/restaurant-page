@@ -1,6 +1,8 @@
 # restaurant-page# 🍽️ Élite Cuisine - Professional Restaurant Website
 
-![Élite Cuisine Preview](https://placehold.co/800x400/8B4513/FFFFFF?text=Élite+Cuisine+Restaurant)
+<img width="1880" height="916" alt="لقطة الشاشة 2025-09-26 095215" src="https://github.com/user-attachments/assets/4a295764-a14c-46e2-ae2a-54972525f40f" />
+<img width="1853" height="913" alt="لقطة الشاشة 2025-09-26 095241" src="https://github.com/user-attachments/assets/83cf9a05-0a3a-4d1c-9f6f-44dd0ceb6556" />
+<img width="1885" height="887" alt="لقطة الشاشة 2025-09-26 095303" src="https://github.com/user-attachments/assets/0553055a-0668-419b-9555-f534794e9ee5" />
 
 A stunning, professionally designed restaurant website built entirely with JavaScript DOM manipulation, featuring elegant animations, premium typography, and sophisticated styling.
 
